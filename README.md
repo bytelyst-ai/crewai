@@ -31,13 +31,9 @@ Email Sending: Automatically send the generated PDF to a specified email address
 Requirements
 Python 3.6+
 Required libraries: os, smtplib, email, fpdf, langchain_community
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+Installation
+
 Install dependencies:
 
 bash
