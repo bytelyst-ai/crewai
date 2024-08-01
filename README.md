@@ -1,4 +1,5 @@
-#Automated Article Generation and Emailing
+Automated Article Generation and Emailing
+
 This repository contains a Python script that uses a locally hosted Llama2 language model to generate an article on a given topic, create a PDF of the article, and email it to a specified recipient. The script defines classes for managing agents, tasks, and a crew to coordinate the task execution.
 
 Features
